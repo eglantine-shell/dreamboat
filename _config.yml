@@ -27,7 +27,7 @@ baseurl: /dreamboat
 avatar: https://github.com/eglantine-shell/dreamboat/blob/master/images/IMG_2324.jpg
 
 # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
-favicon: https://github.com/eglantine-shell/dreamboat/blob/master/images/未命名作品.png
+favicon: 
 
 
 # 菜单中的按钮
