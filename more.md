@@ -1,4 +1,8 @@
-# 更多
+---
+layout: page
+title: 更多
+permalink: /more/
+---
 
 ## 致谢
 
