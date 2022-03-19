@@ -1,11 +1,9 @@
 ---
 layout: post
-title: Markdown语法简介
-date: 2013-07-16
-Author: Shengbin 
-tags: [sample, markdown]
-comments: true
-toc: true
+title: 已经是最久远的故事了
+date: 2018-12-31
+Author: 黑历史bot
+tags: [词中有誓碍天真]
 ---
 
 本中文版Markdown语法简介来自博客 <https://blog.shengbin.me/posts/markdown-syntax>，并由我完成了汉化。其中的站位文字来自[狗屁不通文章生成器](https://suulnnka.github.io/BullshitGenerator/index.html)。
