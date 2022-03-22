@@ -81,7 +81,7 @@ disqus: #shortname
 gitalk:
   clientID: b01230f6dd3886cdc5e3
   clientSecret: 6dd6bd1ef52c72299bf33891c0e9d739854f9646
-  repo: eglantine-shell
+  repo: dreamboat
   owner: eglantine-shell
   proxy:
 
