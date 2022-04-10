@@ -6,7 +6,7 @@ tags: [明月好似世上人, 宴客精选]
 ---
 
 
-![望月](https://s2.loli.net/2022/04/04/WM62Uv3bfoBne8I.jpg "望月")
+![望月](https://s3.bmp.ovh/imgs/2022/04/10/0f56ed8a64b0c528.jpg "望月")
 
 “希望你可以拥抱你的月亮。”
 
